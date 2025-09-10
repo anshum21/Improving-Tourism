@@ -33,7 +33,7 @@ The aim is to transform raw data into actionable insights that can help stakehol
 
 ## 🔗 Live Dashboard
 Check out the live interactive dashboard here:  
-👉 [View on Tableau Public]([https://public.tableau.com/your-link-here](https://public.tableau.com/app/profile/anshum.luthra/viz/Anshum_tourism/ImprovingTourism?publish=yes))
+👉 [View on Tableau Public]((https://public.tableau.com/app/profile/anshum.luthra/viz/Anshum_tourism/ImprovingTourism?publish=yes))
 
 ---
 
